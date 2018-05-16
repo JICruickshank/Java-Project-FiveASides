@@ -1,17 +1,11 @@
 # Java-Project-FiveASides
 
-This project was developed using Java, PSQL, Heroku and Spark.
+Paired programming project.
 
-the aim for the app was presnt users with a list of games of 5'a'sides in their area that needed players.
+Java/Hibernate app for players to organise 5 a side games and available players to look for games needing players.
 
-you are also able view what games a player has signed up for and what players have signed up for games.
+Demonstrates use of Hibernate to manage one to many and many to many relationships.
 
-there are a few bugs needed fixed on the app, but considering it was built in 5 days, I am happy with the content.
+Deployed via Heroku at http://find-a-sides-app.herokuapp.com/
 
-the site is available at http://find-a-sides.herokuapp.com/login 
-
-you can sign up and then sign up with your username. 
-
-or alternatively you can sign in with the username "Stevey" and this will give you access to the app.
-
-any questions to dannyconner@hotmail.co.uk
+Sign up at the login page, or login with username 'Stevey' to explore the app. 
